@@ -1,4 +1,4 @@
-/*to find the maximum and minimum element using minimum number of comparisions*/
+/*to find the maximum and minimum element using minimum number of comparisons*/
 
 #include<bits/stdc++.h>
 using namespace std;
